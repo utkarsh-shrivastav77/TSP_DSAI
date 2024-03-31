@@ -6,7 +6,7 @@
 
 
 ### 🚀 About Me
-I'm a third year undergrad student of Electronics and Communication with a passion for machine learning.
+I'm a third-year undergraduate student majoring in Electronics and Communication, driven by a profound interest in machine learning. Having completed a comprehensive machine learning specialization program through Stanford Online, I've honed my skills and knowledge in this cutting-edge field. This journey has enabled me to undertake numerous exciting projects, each contributing to my growth and understanding of machine learning's intricacies and applications.
 
 
 ## 🛠 Skills
